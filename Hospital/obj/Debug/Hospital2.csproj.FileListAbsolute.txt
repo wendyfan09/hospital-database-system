@@ -1,0 +1,56 @@
+D:\Hospital2\Hospital2\bin\Debug\Hospital2.exe
+D:\Hospital2\Hospital2\bin\Debug\Hospital2.pdb
+D:\Hospital2\Hospital2\obj\Debug\ResolveAssemblyReference.cache
+D:\Hospital2\Hospital2\obj\Debug\Hospital2.Properties.Resources.resources
+D:\Hospital2\Hospital2\obj\Debug\Hospital2.csproj.GenerateResource.Cache
+D:\Hospital2\Hospital2\obj\Debug\Hospital2.exe
+D:\Hospital2\Hospital2\obj\Debug\Hospital2.pdb
+D:\Hospital2\Hospital2\obj\Debug\Hospital2.doctor.resources
+D:\Hospital2\Hospital2\obj\Debug\Hospital2.MDIParent1.resources
+D:\Hospital2\Hospital2\obj\Debug\Hospital2.login.resources
+D:\Hospital2\Hospital2\obj\Debug\Hospital2.patient.resources
+D:\Hospital2\Hospital2\obj\Debug\Hospital2.check.resources
+D:\Hospital2\Hospital2\obj\Debug\Hospital2.medicine.resources
+D:\Hospital2\Hospital2\obj\Debug\Hospital2.patientdoctor.resources
+C:\Documents and Settings\Administrator\桌面\Hospital2\Hospital2\obj\Debug\Hospital2.exe
+C:\Documents and Settings\Administrator\桌面\Hospital2\Hospital2\bin\Debug\Hospital2.exe
+C:\Documents and Settings\Administrator\桌面\Hospital2\Hospital2\bin\Debug\Hospital2.pdb
+C:\Documents and Settings\Administrator\桌面\Hospital2\Hospital2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Hospital2\Hospital2\obj\Debug\Hospital2.check.resources
+C:\Documents and Settings\Administrator\桌面\Hospital2\Hospital2\obj\Debug\Hospital2.doctor.resources
+C:\Documents and Settings\Administrator\桌面\Hospital2\Hospital2\obj\Debug\Hospital2.login.resources
+C:\Documents and Settings\Administrator\桌面\Hospital2\Hospital2\obj\Debug\Hospital2.MDIParent1.resources
+C:\Documents and Settings\Administrator\桌面\Hospital2\Hospital2\obj\Debug\Hospital2.medicine.resources
+C:\Documents and Settings\Administrator\桌面\Hospital2\Hospital2\obj\Debug\Hospital2.patient.resources
+C:\Documents and Settings\Administrator\桌面\Hospital2\Hospital2\obj\Debug\Hospital2.patientdoctor.resources
+C:\Documents and Settings\Administrator\桌面\Hospital2\Hospital2\obj\Debug\Hospital2.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\Hospital2\Hospital2\obj\Debug\Hospital2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\Hospital2\Hospital2\obj\Debug\Hospital2.pdb
+C:\Users\u\Desktop\Hospital2\Hospital2\obj\Debug\Hospital2.exe
+C:\Users\u\Desktop\Hospital2\Hospital2\obj\Debug\Hospital2.pdb
+C:\Users\u\Desktop\Hospital2\Hospital2\bin\Debug\Hospital2.exe
+C:\Users\u\Desktop\Hospital2\Hospital2\bin\Debug\Hospital2.pdb
+C:\Users\u\Desktop\Hospital2\Hospital2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\u\Desktop\Hospital2\Hospital2\obj\Debug\Hospital2.check.resources
+C:\Users\u\Desktop\Hospital2\Hospital2\obj\Debug\Hospital2.doctor.resources
+C:\Users\u\Desktop\Hospital2\Hospital2\obj\Debug\Hospital2.login.resources
+C:\Users\u\Desktop\Hospital2\Hospital2\obj\Debug\Hospital2.MDIParent1.resources
+C:\Users\u\Desktop\Hospital2\Hospital2\obj\Debug\Hospital2.medicine.resources
+C:\Users\u\Desktop\Hospital2\Hospital2\obj\Debug\Hospital2.patient.resources
+C:\Users\u\Desktop\Hospital2\Hospital2\obj\Debug\Hospital2.patientdoctor.resources
+C:\Users\u\Desktop\Hospital2\Hospital2\obj\Debug\Hospital2.Properties.Resources.resources
+C:\Users\u\Desktop\Hospital2\Hospital2\obj\Debug\Hospital2.csproj.GenerateResource.Cache
+E:\Hospital2\Hospital2\obj\Debug\Hospital2.exe
+E:\Hospital2\Hospital2\obj\Debug\Hospital2.pdb
+E:\Hospital2\Hospital2\bin\Debug\Hospital2.exe
+E:\Hospital2\Hospital2\bin\Debug\Hospital2.pdb
+E:\Hospital2\Hospital2\obj\Debug\ResolveAssemblyReference.cache
+E:\Hospital2\Hospital2\obj\Debug\Hospital2.check.resources
+E:\Hospital2\Hospital2\obj\Debug\Hospital2.doctor.resources
+E:\Hospital2\Hospital2\obj\Debug\Hospital2.login.resources
+E:\Hospital2\Hospital2\obj\Debug\Hospital2.MDIParent1.resources
+E:\Hospital2\Hospital2\obj\Debug\Hospital2.medicine.resources
+E:\Hospital2\Hospital2\obj\Debug\Hospital2.patient.resources
+E:\Hospital2\Hospital2\obj\Debug\Hospital2.patientdoctor.resources
+E:\Hospital2\Hospital2\obj\Debug\Hospital2.Properties.Resources.resources
+E:\Hospital2\Hospital2\obj\Debug\Hospital2.csproj.GenerateResource.Cache
